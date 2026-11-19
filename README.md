@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Chikamso Udeh 👋
 
-<!--
-**cy-kamso/cy-kamso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Engineer with experience in Microsoft security solutions and a growing focus on Azure cloud security and automation.
 
-Here are some ideas to get you started:
+## Technical Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cybersecurity & Security Engineering
+- Microsoft Security
+- Azure & Cloud Security
+- Identity & Access Management
+- Security Operations & Threat Detection
+- Security Automation
+
+## Tools & Technologies
+
+- Microsoft Defender for Endpoint
+- Microsoft Defender for Cloud Apps
+- Microsoft Entra ID
+- Microsoft Sentinel
+- Microsoft Purview
+
+## Projects
+
+A collection of cybersecurity projects, technical implementations, hands-on labs, and security engineering experiments.
+
+*Project documentation coming soon.*
+
+## Technical Writing
+
+- [Medium](https://medium.com/@cy.girliegmail.com)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/chikamso-udeh-b51237236)
+- [GitHub](https://github.com/cy-kamso)
