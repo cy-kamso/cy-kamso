@@ -13,11 +13,18 @@ Cybersecurity Engineer with experience in Microsoft security solutions and a gro
 
 ## Tools & Technologies
 
+**Cloud Platform**
+- Microsoft Azure
+
+**Microsoft Security**
 - Microsoft Defender for Endpoint
 - Microsoft Defender for Cloud Apps
 - Microsoft Entra ID
 - Microsoft Sentinel
 - Microsoft Purview
+
+**Scripting & Automation**
+- PowerShell
 
 ## Projects
 
