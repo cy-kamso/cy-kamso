@@ -4,8 +4,6 @@ Cybersecurity Engineer with experience in Microsoft security solutions and a gro
 
 ## Technical Focus
 
-- Cybersecurity & Security Engineering
-- Microsoft Security
 - Azure & Cloud Security
 - Identity & Access Management
 - Security Operations & Threat Detection
